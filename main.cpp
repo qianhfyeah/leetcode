@@ -4,9 +4,15 @@
 
 #include <stdio.h>
 
-//bool test();
+bool test();
+/*
+bool test() {
+    return false;
+}
+*/
 
-#include "reverse.c"
+//#include "reverse.c"
+#include "palindrome.c"
 
 
 void test_sink() 

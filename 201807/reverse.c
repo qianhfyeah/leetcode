@@ -5,6 +5,7 @@
 
 #include <math.h>
 #include <limits.h>
+#include <stdbool.h>
 
 
 int reverse(int x) {
